@@ -1,0 +1,13 @@
+{
+  "name": "opendai",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "express": "^4.19.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
